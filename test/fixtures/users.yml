@@ -3,3 +3,9 @@ caleb:
  last_name: "Penney"
  email: "caleb.penney.75@gmail.com"
  profile_name: "calebpenney"
+
+jim:
+ first_name: "Jim"
+ last_name: "Hoskins"
+ email: "jim@teamtreehouse.com"
+ profile_name: "jimhoskins"
